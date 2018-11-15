@@ -1,6 +1,6 @@
 # Site settings
-title: initpassion Blog
-SEOTitle: initpassion的博客 | initpassion Blog
+title: initpassion blog
+SEOTitle: initpassion的博客 | initpassion blog
 header-img: img/post-bg-desk.jpg
 email: initpassion@gmail.com
 description: "Every failure is leading towards success."
@@ -11,7 +11,7 @@ github_repo: "https://github.com/initpassion/initpassion.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "闭着眼睛捉麻雀!"
+sidebar-about-description: "闭着眼睛捉麻雀"
 sidebar-avatar: /img/initpassion-head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -57,13 +57,13 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: initpassion
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 1a29464f6dfed72f4041                            #生成的clientID
+  clientSecret: 9d88356ae64eb9a9ccc61f3fb5d6f1223af01a38    #生成的clientSecret
   repo: initpassion.github.io    #仓库名称
   owner: initpassion    #github用户名
   admin: initpassion
