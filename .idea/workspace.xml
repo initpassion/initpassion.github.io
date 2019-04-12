@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36e4ca34-78b8-4f92-b2ce-5a69ce23ed8b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-04-12-生产环境中常见问题排查.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-12-暂且叫做锁集合吧.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-12-暂且叫做锁集合吧.md" afterDir="false" />
-    </list>
+    <list default="true" id="36e4ca34-78b8-4f92-b2ce-5a69ce23ed8b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-12-生产环境中常见问题排查.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="304">
-                <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <first_editor relative-caret-position="399">
+                <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -96,6 +93,9 @@
     <option name="y" value="163" />
     <option name="width" value="1653" />
     <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -202,16 +202,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555040929207</updated>
-      <workItem from="1555040932862" duration="238000" />
+      <workItem from="1555040932862" duration="1148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="238000" />
+    <option name="totallyTimeSpent" value="1148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -234,10 +233,10 @@
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.869403" weight="0.23638344" />
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info id="npm" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49840087" weight="0.33769062" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.60683763" visible="true" weight="0.21268657" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49840087" visible="true" weight="0.33696836" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.60683763" visible="true" weight="0.21268657" />
       <window_info id="Grunt " side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" order="11" sideWeight="0.9152452" visible="true" weight="0.41330424" />
+      <window_info anchor="bottom" id="SonarLint" order="11" sideWeight="0.9152452" weight="0.41330424" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
@@ -286,8 +285,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-12-生产环境中常见问题排查.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="304">
-            <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <first_editor relative-caret-position="399">
+            <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
