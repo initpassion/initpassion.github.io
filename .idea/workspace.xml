@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36e4ca34-78b8-4f92-b2ce-5a69ce23ed8b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-05-08-mysql分区.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-08-mysql分区.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-08-mysql分区.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,8 +64,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-05-08-mysql分区.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="570">
-                <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+              <first_editor relative-caret-position="209">
+                <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -273,12 +271,12 @@
       <workItem from="1557215966119" duration="704000" />
       <workItem from="1557216796246" duration="1693000" />
       <workItem from="1557280112925" duration="589000" />
-      <workItem from="1557282035608" duration="2114000" />
+      <workItem from="1557282035608" duration="2510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9438000" />
+    <option name="totallyTimeSpent" value="9834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -305,7 +303,7 @@
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info id="npm" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.869403" weight="0.6695747" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49840087" visible="true" weight="0.17121047" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49840087" visible="true" weight="0.38931298" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.60683763" visible="true" weight="0.1663113" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="16" />
       <window_info id="Grunt " order="8" side_tool="true" />
@@ -784,8 +782,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-08-mysql分区.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="570">
-            <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <first_editor relative-caret-position="209">
+            <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
