@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36e4ca34-78b8-4f92-b2ce-5a69ce23ed8b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-08-mysql分区.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-08-mysql分区.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-05-14-全世界人都知道的git命令.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,12 +61,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-05-08-mysql分区.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-05-08-mysql分区.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-05-08-mysql分区.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="209">
-                <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <first_editor relative-caret-position="228">
+                <caret line="22" selection-start-line="22" selection-end-line="23" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-05-14-全世界人都知道的git命令.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-05-14-全世界人都知道的git命令.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="323">
+                <caret line="17" column="62" lean-forward="true" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
               </first_editor>
               <second_editor />
             </state>
@@ -122,6 +135,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-12-生产环境中常见问题排查.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-08-mysql分区.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-14-全世界人都知道的git命令.md" />
       </list>
     </option>
   </component>
@@ -151,8 +165,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-559" />
-    <option name="y" value="45" />
+    <option name="x" value="80" />
+    <option name="y" value="406" />
     <option name="width" value="1653" />
     <option name="height" value="1000" />
   </component>
@@ -164,8 +178,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -183,6 +195,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,12 +285,14 @@
       <workItem from="1557215966119" duration="704000" />
       <workItem from="1557216796246" duration="1693000" />
       <workItem from="1557280112925" duration="589000" />
-      <workItem from="1557282035608" duration="2510000" />
+      <workItem from="1557282035608" duration="2636000" />
+      <workItem from="1557727386562" duration="631000" />
+      <workItem from="1557833383382" duration="809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9834000" />
+    <option name="totallyTimeSpent" value="11400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -300,22 +316,22 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.869403" weight="0.6695747" />
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info id="npm" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.869403" weight="0.6695747" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49840087" visible="true" weight="0.38931298" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.60683763" visible="true" weight="0.1663113" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.60683763" visible="true" weight="0.16950959" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="16" />
       <window_info id="Grunt " order="8" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="11" sideWeight="0.9152452" weight="0.41330424" />
       <window_info id="Alibaba Cloud Explorer" order="9" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.2238806" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.49946696" weight="0.32897604" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32897604" />
@@ -331,6 +347,36 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-12-暂且叫做锁集合吧.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="266">
+            <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-12-thread基础.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="17" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-08-mysql分区.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="247">
+            <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-12-生产环境中常见问题排查.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -731,14 +777,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-15-第一篇文章.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-11-Cmder.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -779,11 +817,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-15-第一篇文章.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-08-mysql分区.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="209">
-            <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <first_editor relative-caret-position="228">
+            <caret line="22" selection-start-line="22" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-14-全世界人都知道的git命令.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="17" column="62" lean-forward="true" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
           </first_editor>
           <second_editor />
         </state>
