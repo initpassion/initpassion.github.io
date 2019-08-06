@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36e4ca34-78b8-4f92-b2ce-5a69ce23ed8b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-22-Caffeine小结.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-22-Caffeine小结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-08-06-springboot-docker.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,11 +85,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-06-22-Caffeine小结.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-06-22-Caffeine小结.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-06-22-Caffeine小结.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="100" column="6" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="6" />
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-08-06-springboot-docker.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-08-06-springboot-docker.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="57">
+                <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -117,18 +131,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-04-12-thread基础.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-12-thread基础.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-line="17" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -145,6 +147,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-05-08-mysql分区.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-14-全世界人都知道的git命令.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-22-Caffeine小结.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-08-06-springboot-docker.md" />
       </list>
     </option>
   </component>
@@ -187,8 +190,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,7 +209,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -299,12 +302,13 @@
       <workItem from="1557833383382" duration="809000" />
       <workItem from="1557835645005" duration="832000" />
       <workItem from="1557884078855" duration="593000" />
-      <workItem from="1561354807416" duration="1164000" />
+      <workItem from="1561354807416" duration="2522000" />
+      <workItem from="1565092453875" duration="77000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13989000" />
+    <option name="totallyTimeSpent" value="15424000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -325,23 +329,23 @@
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8075693" weight="0.36056644" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Codota" />
+      <window_info anchor="right" id="Codota" order="11" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.869403" weight="0.6695747" />
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info id="npm" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.869403" weight="0.6695747" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49840087" visible="true" weight="0.3653217" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.60683763" visible="true" weight="0.3555437" />
-      <window_info anchor="bottom" id="Run with VisualVM" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49840087" visible="true" weight="0.34242094" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="16" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.60683763" visible="true" weight="0.30597016" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="16" />
       <window_info id="Grunt " order="8" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="11" sideWeight="0.9152452" weight="0.41330424" />
       <window_info id="Alibaba Cloud Explorer" order="9" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug with VisualVM" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="16" />
       <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -362,16 +366,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-12-thread基础.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="17" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-08-mysql分区.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -851,9 +845,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-22-Caffeine小结.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="100" column="6" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="6" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="92" column="24" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-08-06-springboot-docker.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
