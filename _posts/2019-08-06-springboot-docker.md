@@ -97,6 +97,13 @@ springboot项目搭建, docker 构建后发送到远程服务器, 实现远程�
 - ```
   docker run -it -p 8080:8080 --name registry-web --link registry -e REGISTRY_URL=http://registry:5000/v2 -e REGISTRY_NAME=localhost:5000 hyper/docker-registry-web 
   ```
+  
+- 
+```
+# docker完全卸载
+yum remove docker docker-client docker-client-latest docker-common docker-latest docker-latest-logrotate docker-logrotate docker-selinux docker-engine-selinux docker-engine
+
+```  
 
 ## Docker之开启远程访问
 
